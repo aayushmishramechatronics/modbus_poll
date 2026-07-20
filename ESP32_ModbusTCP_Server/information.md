@@ -1,7 +1,7 @@
-------------------------------------------------------------------------------------
+```
                        Modbus Poll
          Copyright (c) 2002-2026. Witte Software.
-------------------------------------------------------------------------------------
+```
 
 
 Getting started:
@@ -22,7 +22,6 @@ Getting started:
 Note: You can always press F1 for help.
 
 
-
 Warning:
 -----------------------------
 The use of RTS controlled RS232/RS485 converters should be avoided if possible.
@@ -34,7 +33,6 @@ the message. On the other hand if it is switched off too late then the slave's
 message is corrupted and the master will not recognize the message.
 
 
-
 Modbus Poll overview:
 -----------------------------
 Modbus Poll is a powerful, easy to use, master simulating
@@ -43,6 +41,7 @@ in use today - 7, 8, 8.1, 10 and 11.
 
 With Modbus Poll you can monitor and test your modbus
 slave devices. Some of the features:
+
 - Supports Modbus/TCP, RTU and ASCII modes.
 - Test Center for modbus slave developers.
 - OLE Automation for interfacing with Visual Basic
