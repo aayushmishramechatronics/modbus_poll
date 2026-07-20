@@ -2,8 +2,6 @@
 
 Simple Modbus TCP Server using Arduino IDE.
 
----
-
 ## Features
 
 - ESP32 as Modbus TCP Slave
@@ -11,8 +9,6 @@ Simple Modbus TCP Server using Arduino IDE.
 - Compatible with Modbus Poll
 - WiFi-based communication
 - Read & Write support
-
----
 
 ## Hardware
 
@@ -22,8 +18,6 @@ Simple Modbus TCP Server using Arduino IDE.
 - Windows PC
 - Modbus Poll
 
----
-
 ## Software
 
 Arduino IDE
@@ -32,11 +26,9 @@ Required Library
 
 ArduinoModbus
 
----
-
 ## Installation
 
-Clone the project
+Clone the Project
 
 ```bash
 git clone https://github.com/yourusername/ESP32_ModbusTCP_Server.git
@@ -72,8 +64,6 @@ IP Address:
 Modbus TCP Server Started
 ```
 
----
-
 ## Modbus Poll
 
 Connection
@@ -96,8 +86,6 @@ Address 0
 Quantity 10
 ```
 
----
-
 ## Register Map
 
 | Register | Address | Initial |
@@ -113,8 +101,6 @@ Quantity 10
 |40009|8|800|
 |40010|9|900|
 
----
-
 ## Reading
 
 Function Code
@@ -123,15 +109,13 @@ Function Code
 03
 ```
 
----
-
 ## Writing
 
 Double-click a register in Modbus Poll.
 
-Enter new value.
+Enter New Value.
 
-ESP32 updates instantly.
+ESP32 Updates Instantly.
 
 ---
 
