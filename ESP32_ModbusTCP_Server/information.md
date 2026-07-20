@@ -1,6 +1,6 @@
 ```
-                       Modbus Poll
-         Copyright (c) 2002-2026. Witte Software.
+Modbus Poll
+Copyright (c) 2002-2026. Witte Software.
 ```
 
 
